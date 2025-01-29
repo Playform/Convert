@@ -3,7 +3,7 @@
 This **[`Astro integration`][astro-integration]** converts all your files into
 different formats.
 
-## 🚀 Installation
+## Installation 🚀
 
 There are two ways to add integrations to your project. Let's try the most
 convenient option first!
